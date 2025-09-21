@@ -1,0 +1,202 @@
+{
+  "recipes": [
+    {
+      "name": "YorkAutoCare",
+      "description": "its a demo",
+      "created": "2025-09-01T20:46:36.685189",    
+      "steps": [
+        {
+          "action": "navigate",
+          "timestamp": "2025-09-01T20:45:29.240441",
+          "url": "https://demoqa.com/automation-practice-form"
+        },
+        {
+          "action": "navigate",
+          "timestamp": "2025-09-01T20:45:41.089257",
+          "url": "https://demoqa.com/automation-practice-form"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:41.658186",
+          "selector": "#firstName",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:45:44.778166",
+          "selector": "#firstName",
+          "value": "Abdullah Bin "
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:46.213688",
+          "selector": "#lastName",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:45:46.979910",
+          "selector": "#lastName",
+          "value": "Umar"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:47.990179",
+          "selector": "#userEmail",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:45:51.531781",
+          "selector": "#userEmail",
+          "value": "pakistan@gmail.com"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:52.888791",
+          "selector": "#genterWrapper > div:nth-child(2) > div:nth-child(1)",
+          "text": "Male"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:53.309817",
+          "selector": "#genterWrapper > div:nth-child(2) > div:nth-child(1)",
+          "text": "Male"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:53.755052",
+          "selector": "#genterWrapper > div:nth-child(2) > div:nth-child(1) > label:nth-child(2)",
+          "text": "Male"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:53.758344",
+          "selector": "#gender-radio-1",
+          "text": "Male"
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:45:53.761349",
+          "selector": "#gender-radio-1",
+          "value": "Male"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:54.297820",
+          "selector": "#userNumber",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:45:56.733680",
+          "selector": "#userNumber",
+          "value": "0333855599"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:58.478027",
+          "selector": "#dateOfBirthInput",
+          "text": "01 Sep 2025"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:45:59.943602",
+          "selector": "[aria-label=\"Choose Tuesday, September 2nd, 2025\"]",
+          "text": "2"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:01.382980",
+          "selector": "div.subjects-auto-complete__value-container.subjects-auto-complete__value-container--is-multi.css-1hwfws3",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:46:04.921639",
+          "selector": "#subjectsInput",
+          "value": "En"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:06.024494",
+          "selector": "#react-select-2-option-0",
+          "text": "English"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:06.797683",
+          "selector": "#hobbiesWrapper > div:nth-child(2) > div:nth-child(1)",
+          "text": "Sports"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:07.332477",
+          "selector": "#hobbiesWrapper > div:nth-child(2) > div:nth-child(1) > label:nth-child(2)",
+          "text": "Sports"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:07.335474",
+          "selector": "#hobbies-checkbox-1",
+          "text": "1"
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:46:07.338470",
+          "selector": "#hobbies-checkbox-1",
+          "value": "1"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:08.209098",
+          "selector": "#hobbiesWrapper > div:nth-child(2) > div:nth-child(2) > label:nth-child(2)",
+          "text": "Reading"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:08.212101",
+          "selector": "#hobbies-checkbox-2",
+          "text": "2"
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:46:08.214170",
+          "selector": "#hobbies-checkbox-2",
+          "value": "2"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:10.299405",
+          "selector": "#currentAddress",
+          "text": ""
+        },
+        {
+          "action": "fill",
+          "timestamp": "2025-09-01T20:46:14.884695",
+          "selector": "#currentAddress",
+          "value": "Nowhere to be found"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:17.505838",
+          "selector": "#react-select-3-option-1",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:18.972126",
+          "selector": "#react-select-4-option-0",
+          "text": "Agra"
+        },
+        {
+          "action": "click",
+          "timestamp": "2025-09-01T20:46:19.851344",
+          "selector": "#submit",
+          "text": "Submit"
+        }
+      ],
+      "placeholders": []
+    }
+  ]
+}
