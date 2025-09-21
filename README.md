@@ -4,7 +4,7 @@ A simple web automation tool that records user interactions and replays them wit
 
 ## 🚀 Quick Start
 
-1. **Setup** (Already completed)
+1. **Setup** 
    ```bash
    # Activate virtual environment
    venv\Scripts\Activate.ps1
